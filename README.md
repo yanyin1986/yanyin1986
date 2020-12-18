@@ -7,6 +7,8 @@
 ### Easy Japanese
 I'm developing Japanese learning app name **EasyJapanese**
 <br/>
+<br/>
+
 <a href='https://apps.apple.com/app/id1453019967'>
   <img alt='Get it on App Store' src='https://developer.apple.com//app-store/marketing/guidelines/images/badge-example-preferred.png' height=44>
 </a>
