@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on iOS development.
-- I came from China 🇨🇳 and live in 🇯🇵 
+- I came from China 🇨🇳  and live in 🇯🇵 
 
 ## Skills
 <a href="https://github.com/anuraghazra/github-readme-stats">
