@@ -8,8 +8,8 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yanyin1986&theme=github">
 
-## Contact
-- [✉️ Email](mailto:yanyin1986@gmail.com)
-
 ## Activity
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yanyin1986&theme=github">
+
+## Contact
+- [✉️ Email](mailto:yanyin1986@gmail.com)
