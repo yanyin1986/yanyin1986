@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-
-- 🔭 I’m currently working on mobile development.
-- I came from China 🇨🇳  and live in 🇯🇵 
+- Mobile Application development
+- AI driven Application development
+- Chinese 🇨🇳 living in 🇯🇵
 
 ## Language
 
